@@ -1,0 +1,147 @@
+
+
+.music_blog{
+
+		background-color: #CB4335;
+		width: 100%;
+		height: 100%;
+		}
+
+
+.c1 div{
+background-color: #F7DC6F;
+padding-top: 10px;
+padding-bottom:10px;
+}
+
+.c2{
+	background-color:pink;
+	padding-right:30px;
+	padding-left:30px;
+	padding-top: 15px;
+	padding-bottom:15px;
+
+}
+
+.c3{
+	background-color:#F7DC6F;
+	padding-right:30px;
+	padding-left:30px;
+	padding-top: 15px;
+	padding-bottom:15px;
+
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.youtube-img {
+  width: 30px;
+	height: 30px;
+
+}
+
+.facebook-img {
+  width: 30px;
+	height: 30px;
+}
+
+.instagram-img {
+  width: 30px;
+	height: 30px;
+}
+
+.pinterest-img {
+  width: 30px;
+	height: 30px;
+}
+
+.twitter-img {
+  width: 30px;
+	height: 30px;
+}
+
+.beatles-img{
+
+	width: 100%;
+	height: 100%;
+	display:block;
+  margin:auto;
+	padding-bottom: 10px;
+}
+
+.solar-img{
+	padding-top: 10px;
+  height: 100%;
+	width: 100%;
+	display:block;
+  margin:auto;
+}
+
+.lupa-img {
+  width: 10px;
+	height: 10px;
+}
+
+.logos{
+	text-align:center;
+}
+
+.desconocido-img{
+	width: 100%;
+	height: 80px;
+	padding-right: 10px;
+
+}
+
+.comentarios{
+ width:100%;
+ height:80px;
+ padding:0%;
+
+}
+
+.c25{
+	background-color:grey;
+
+	}
+
+	.c4{
+		background-color: white;
+		border: 1px solid;
+		text-align:center;
+		height: 35px;
+	}
+
+@media (max-width: 991px) {
+
+	.c25{
+		display: none;
+		}
+
+}
+
+@media (min-width: 768px) {
+
+	.music_blog{
+			width: 80%;
+			display:block;
+		  margin:auto;
+			}
+
+	.c2{
+		min-height: 350px;
+	}
+
+	.c3{
+		min-height: 350px;
+	}
+
+ .row-eq-height {
+	      display: -webkit-box;
+	      display: -webkit-flex;
+	      display: -ms-flexbox;
+	      display: flex;
+	    }
+		}
